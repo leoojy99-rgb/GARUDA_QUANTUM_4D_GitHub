@@ -1,0 +1,26 @@
+{
+  "name": "GARUDA QUANTUM 4D | Model Kuantitatif Investor Indonesia",
+  "short_name": "GARUDA 4D",
+  "description": "Model perdagangan kuantitatif multi-dimensi milik investor Indonesia. Metodologi 30 tahun IMF & Millennium Quant Pods.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#e5b95a",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/garuda_logo_hires.png",
+      "sizes": "880x880",
+      "type": "image/png"
+    }
+  ]
+}
